@@ -18,8 +18,8 @@ All available themes can be found in the `Themes` directory шт . Each folder c
 ## 📥 How to Use
 
 1. Browse the `Themes` directory and pick your favorite theme. 🌈
-2. Download the `theme.css` file from the folder of the theme you like. 📂
-3. Move the downloaded `theme.css` file into your Obsidian vault's `.obsidian/themes/` directory. 📁
+2. Download the entire folder of the theme you like. 📂
+3. Move the downloaded folder into your Obsidian vault's `.obsidian/themes/` directory. 📁
 4. In Obsidian, go to **Settings** -> **Appearance** -> **Themes** and apply the theme. ✨
 
 <br>
